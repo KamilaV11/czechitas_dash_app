@@ -123,7 +123,7 @@ app.layout = html.Div([
                 dcc.Markdown(
                     # CHANGE YOUR INFO HERE-------------------------------------
                     """
-                    Some text here were the girls can higlight **the main things**
+                    Some text here where the girls can higlight **the main things**
                     about their career or what they are looking for.
                     """
                 )
