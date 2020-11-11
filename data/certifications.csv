@@ -1,5 +1,7 @@
-﻿year,Company,certification,description
-2010,Coursera,Tableau,here you should put some description
-2010,Coursera,Tableau,here you should put some description
-2010,Coursera,Tableau,here you should put some description
-2010,Coursera,Tableau,here you should put some description
+﻿Year,Company,Certification,Description
+2020-in progress,ChechITas,Digital Academy,"3 months course, X hours in total.
+Included subjects: Data Analysis, Python, SQL, Data Modelling."
+2016,DataCamp,Data Scientist with R,"25 small courses about R, 96 hours in total. 
+Included subjects: Data Wrangling, Data Visualization (ggplot2), Machine Learning, Statistics."
+2015,Coursera,Data Scientist with R,"10 courses, 90 hours in total.
+Included subjects: Data Wrangling, Data Visualization (ggplot2), Machine Learning."

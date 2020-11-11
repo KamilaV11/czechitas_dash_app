@@ -1,8 +1,12 @@
-﻿years,position,company,description,tools
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
-2000-2001,test1,company1,here you describe things,"R, Python, SQL"
+﻿Years,position,company,description,tools
+2018 Jan-present,Data Analyst,Company1,"Main responsibilities:
+-Data quality;
+-Dashboarding in Power BI and Tableau;
+-Customer segmentation;
+-Project management.","R, Python, SQL, Power BI"
+2016 Oct-2018 Jan,Data Analyst,Company2,"Main responsibilities:
+-Reporting Marketing Campaigns;
+-Making dashboards with Power BI.","Google data Studio, SQL"
+2011 Jan-2016 Oct,Social Media Analyst,Company3,"Main responsibilities:
+-Reporting social media activities to external stakeholders;
+-Created strategy for social media campaigns.",Social media listening and analytics tools

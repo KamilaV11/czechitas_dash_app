@@ -61,13 +61,14 @@ def render_summary_page():
                 dt.DataTable(
                     id='table-work-job',
                     sort_action='native',
+                    style_data={'whiteSpace': 'pre-line'},
                     style_cell={
                         'padding': '15px',
                         'width': 'auto',
                         'textAlign': 'left'
                     },
                     columns=[{"name": i.title(), "id": i} for i in jobs.columns],
-                    data=jobs.to_dict("rows")
+                    data=jobs.to_dict("records")
                 ),
             ], className="item3", id="tableExperience"),
             html.Div([
@@ -86,13 +87,14 @@ def render_summary_page():
                 dt.DataTable(
                     id='table-cert',
                     sort_action='native',
+                    style_data={'whiteSpace': 'pre-line'},
                     style_cell={
                         'padding': '15px',
                         'width': 'auto',
                         'textAlign': 'left'
                     },
                     columns=[{"name": i.title(), "id": i} for i in certifications.columns],
-                    data=certifications.to_dict("rows")
+                    data=certifications.to_dict("records")
                 ),
                 html.P("Full list of certificates can be found on my Linkedin page."),
             ], className="item3", id="tableCertificates"),
