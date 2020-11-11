@@ -94,3 +94,7 @@ a:hover {
 h1 {
   color: #e30613;
 }
+
+.tab--selected {
+  border-top: solid 2px #e30613 !important;
+}
