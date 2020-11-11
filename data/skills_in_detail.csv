@@ -1,7 +1,23 @@
-﻿Technology,Experience in years,Detailed Description of Skills,Project Examples
-R,2,"Main libraries: Tidyverse, ggplot2",
-Python,4,"Statement one
-Statement 2",
-Tableau,2,,Social media dashboard
-SQL,2,,
-Power BI,7,,
+﻿Technology,Experience,Detailed Description of Skills,Project Examples,Certifications
+R,4 years,"Main libraries: 
+-Data wrangling: Tidyverse
+-Data visualization: ggplot2, plotly
+-Machine Learning: caret
+
+I was using R daily in all my positions, mainly for EDA and small machine learning tasks.","EDA for all projects;
+Classification algorithm for health data;","Data Scientist with R (Coursera);
+Data Scientist with R (DataCamp)"
+Python,3 years,"Main libraries: 
+-Data wrangling: pandas, numpy
+-Data visualization: matplotlib, seaborn, plotly
+-Machine Learning: scikit-learn
+
+I was using Python in my last position as a data scientist for machine learning tasks.","Image classifier with PyTorch;
+Customer Segmentation with PCA and KNN;
+Recommendation algorithm for emailing;",Intro to Machine Learning with Python (Udacity)
+Tableau,2.5 years,I am using Tableau for all dashboarding tasks and I am familiar with advanced functionalities.,"Social media dashboard, combining all main marketing sources;
+Finance dashboard for internal company needs;",Tableau Data Scientist badge
+SQL,4 years,"I am a database user. I am comfortable with:
+-joins
+-analytical functions
+-window functions",,Advanced SQL for data Scientists (LinkedIn)
